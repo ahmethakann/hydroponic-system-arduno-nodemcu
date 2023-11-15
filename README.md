@@ -1,4 +1,5 @@
 [ahmet_hakan_özgüven_tez_final-son.pdf](https://github.com/ahmethakann/hydroponic-system-arduno-nodemcu/files/13364686/ahmet_hakan_ozguven_tez_final-son.pdf)
+
 [ahmet_hakan_özgüven_poster_sunumu_171802048.pdf](https://github.com/ahmethakann/hydroponic-system-arduno-nodemcu/files/13364687/ahmet_hakan_ozguven_poster_sunumu_171802048.pdf)
 
 
