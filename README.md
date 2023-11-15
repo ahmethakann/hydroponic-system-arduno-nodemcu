@@ -1,6 +1,6 @@
-3.2.1	Arduino Uno R3 Devresi
-[ahmet_hakan_özgüven_tez_final-son.pdf](https://github.com/ahmethakann/hydroponic-system-arduno-nodemcu/files/13364642/ahmet_hakan_ozguven_tez_final-son.pdf)
-[ahmet_hakan_özgüven_poster_sunumu_171802048.pdf](https://github.com/ahmethakann/hydroponic-system-arduno-nodemcu/files/13364645/ahmet_hakan_ozguven_poster_sunumu_171802048.pdf)
+[ahmet_hakan_özgüven_tez_final-son.pdf](https://github.com/ahmethakann/hydroponic-system-arduno-nodemcu/files/13364686/ahmet_hakan_ozguven_tez_final-son.pdf)
+[ahmet_hakan_özgüven_poster_sunumu_171802048.pdf](https://github.com/ahmethakann/hydroponic-system-arduno-nodemcu/files/13364687/ahmet_hakan_ozguven_poster_sunumu_171802048.pdf)
+
 
 Yapılan topraksız tarım sisteminin izleme ve kontrolünü sağlayabilmek ve sensörlerden okunan verileri kayıt edebilmek için Arduino ve ESP tabanlı IOT bir sistem tasarlandı. Bu sistemde, ESP8266 mikroişlemci sayesinde internete bağlanılarak tarih ve saat değerleri NTP Server’dan alınabilmektedir. Yine internet bağlantısı ile Google’ın bir hizmeti olan Firebase veritabanı üzerine hem saniye başı güncel verilerin kaydedilmesi hem de uzaktan röle kontrollerinin yapılabilmesi sağlanmıştır. Sadece wifi bağlantısına ihtiyaç duyan IOT bir sistem tasarlanmıştır.
 ![image](https://github.com/ahmethakann/hydroponic-system-arduno-nodemcu/assets/66576626/a2eda9c9-9804-44e2-9b42-f84c03d82839)
